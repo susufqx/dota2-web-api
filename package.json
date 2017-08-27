@@ -1,0 +1,26 @@
+{
+  "name": "dota2-web-api",
+  "version": "1.0.0",
+  "description": "Node.js version dota2 web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/susufqx/dota2-web-api.git"
+  },
+  "keywords": [
+    "dota2",
+    "steam",
+    "api",
+    "web",
+    "ti"
+  ],
+  "author": "susufqx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/susufqx/dota2-web-api/issues"
+  },
+  "homepage": "https://github.com/susufqx/dota2-web-api#readme"
+}
