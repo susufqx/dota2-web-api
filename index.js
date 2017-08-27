@@ -1,1 +1,1 @@
-module.exports = require('./lib/dota2-web-api');
+module.exports = require('./lib/susu-dota2-api');

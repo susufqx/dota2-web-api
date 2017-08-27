@@ -1,5 +1,5 @@
 {
-  "name": "dota2-web-api",
+  "name": "susu-dota2-api",
   "version": "1.0.0",
   "description": "Node.js version dota2 web api",
   "main": "index.js",
@@ -20,9 +20,9 @@
   "author": "susufqx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/susufqx/dota2-web-api/issues"
+    "url": "https://github.com/susufqx/susu-dota2-api/issues"
   },
-  "homepage": "https://github.com/susufqx/dota2-web-api#readme",
+  "homepage": "https://github.com/susufqx/susu-dota2-api#readme",
   "devDependencies": {
     "chai": "^4.1.1",
     "mocha": "^3.5.0"
