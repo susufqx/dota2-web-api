@@ -7,7 +7,7 @@ npm install susu-dota2-api
 ```
 Before the example, you should apply a steam key to use these APIs.
 
-##Example
+## Example
 ```javascript
 const DotaTwoWebApi = require('susu-dota2-api');
 
